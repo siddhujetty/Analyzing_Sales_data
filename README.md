@@ -1,7 +1,6 @@
-# Project: Analyzing Sales data 
+# Analyzing Sales data 
 
-Data Overview
-=============
+## Data Overview
 
 The data/ directory contains fifty CSV files (one per week) of timestamped
 sales data. Each row in a file has two columns:
@@ -10,8 +9,7 @@ sale_time - The timestamp on which the sale was made e.g. 2012-10-01 01:42:22
 purchaser_gender - The gender of the person who purchased (male or female)
 
 
-Questions
-==========
+## Questions
 
 1. Plot daily sales for all 50 weeks
 
